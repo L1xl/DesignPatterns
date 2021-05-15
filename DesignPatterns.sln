@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{69EE13BE-94B8-4FAE-BF53-BFF5AC58C50A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{387066D2-DB25-42A7-AF3A-9567B51A908F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{387066D2-DB25-42A7-AF3A-9567B51A908F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{BF426CC6-536C-4F6A-998D-B66E8BCA2DC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{387066D2-DB25-42A7-AF3A-9567B51A908F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{387066D2-DB25-42A7-AF3A-9567B51A908F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{387066D2-DB25-42A7-AF3A-9567B51A908F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF426CC6-536C-4F6A-998D-B66E8BCA2DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF426CC6-536C-4F6A-998D-B66E8BCA2DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF426CC6-536C-4F6A-998D-B66E8BCA2DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF426CC6-536C-4F6A-998D-B66E8BCA2DC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
